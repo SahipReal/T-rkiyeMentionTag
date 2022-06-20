@@ -1,7 +1,7 @@
 {
-  "name": "Arte Tagger Bot",
-  "logo":"https://telegra.ph//file/7daf3949556682f549517.jpg",
-  "description": "Arte Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "name": "Türkiye Tagger Bot",
+  "logo":"https://telegra.ph//file/ea84f27b68ae160d0dd2d.jpg",
+  "description": "Türkiye Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
   "env": {
     "TOKEN": {
       "description": "@botfather Telegram ile bottan al yap Token (Gerekli)",
